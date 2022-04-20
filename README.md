@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
+### Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-bravop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 --- 
 ### Find me on:
