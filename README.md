@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨‍💻: About Me : I'm a Full Stack developer from Peru living in Argentina
+### 👨‍💻 About Me : I'm a Full Stack developer from Peru living in Argentina
