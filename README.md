@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   
   PostgreSQL | Sequelize | Express | React | Node JS | Redux
   
-  ### 🛒 GreenShop - E-commerce
+  #### 🛒 GreenShop - E-commerce
   
   2 weeks team project. Made with 6 developers from scratch using SCRUM methodology
   
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   
   PostgreSQL | Sequelize | Express | React | Node JS | Redux | Bootstrap
   
-  ### 🏓 MatchMaker - Sportleagues Mobile App
+  #### 🏓 MatchMaker - Sportleagues Mobile App
   
   4 weeks team professional project for Balloon Group. I worked with 4 developers, and we used SCRUM methodology.
   
