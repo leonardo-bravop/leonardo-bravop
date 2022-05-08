@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 <div align="justify">
 
-## About me : 
+### About me : 
  I'm a Full Stack developer from Peru living in Argentina. Here you can see projects i made and the ones i'm currently working on.
   
  Feel free to ask me anything about my code or the technologies i use, i'm constantly learning how to improve too!
 
 ---
 
-## Languages and Tools :
+### Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Projects:
+### Projects:
  
-  ### 🎞 DreamScreen - Movies and TV Shows website
+  #### 🎞 DreamScreen - Movies and TV Shows website
   
   1 week solo project. Made with the TMDB API.
   
@@ -65,16 +65,50 @@ Here are some ideas to get you started:
   
   PostgreSQL | Sequelize | Express | React | Node JS | Redux
   
-
+  ### 🛒 GreenShop - E-commerce
+  
+  2 weeks team project. Made with 6 developers from scratch using SCRUM methodology
+  
+  Features:
+  
+  - Search products and filter by category
+  - In order to buy, you must register and login
+  - Add products to cart depending on stock and then create an order
+  - Once created you can checkout the order and recieve the purchase details in your email
+  
+  Technologies used:
+  
+  PostgreSQL | Sequelize | Express | React | Node JS | Redux | Bootstrap
+  
+    ### 🏓 MatchMaker - Sportleagues Mobile App
+  
+  4 weeks team professional project for Balloon Group. I worked with 4 developers, and we used SCRUM methodology.
+  
+  Features:
+  
+  - Register, Login, Logout and user session persistance with JWT auth.
+  - Edit user info and picture with Firebase storage
+  - Create a public or private League with secret key for joining.
+  - Search a public or private league, join a league and start with default elo (for users ranking)
+  - Create a 2 teams match with users from a league you belong and select exact date, hour and invitation message
+  - Result confirmation only when one of each team confirms result
+  - ELO and ranking automatically update at result confirmation
+  - 
+  
+  Technologies used:
+  
+  MongoDB | Mongoose | Express | JWT | Node JS | React Native | Redux |
+  
+  
 ---
   
-## Stats:
+### Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-bravop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 --- 
-## Let's get in touch!:
+### Let's get in touch!:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/leonardo-bravop/">
