@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   
  Feel free to ask me anything about my code or the technologies i use, i'm constantly learning how to improve too!
 
----
 
 ### Languages and Tools :
 
@@ -48,9 +47,9 @@ Here are some ideas to get you started:
 
 ---
 
-### Projects:
+## Projects:
  
-  #### 🎞 DreamScreen - Movies and TV Shows website
+  ### 🎞 DreamScreen - Movies and TV Shows website
   
   1 week solo project. Made with the TMDB API.
   
@@ -65,7 +64,7 @@ Here are some ideas to get you started:
   
   PostgreSQL | Sequelize | Express | React | Node JS | Redux
   
-  #### 🛒 GreenShop - E-commerce
+  ### 🛒 GreenShop - E-commerce
   
   2 weeks team project. Made with 6 developers from scratch using SCRUM methodology
   
@@ -80,7 +79,7 @@ Here are some ideas to get you started:
   
   PostgreSQL | Sequelize | Express | React | Node JS | Redux | Bootstrap
   
-  #### 🏓 MatchMaker - Sportleagues Mobile App
+  ### 🏓 MatchMaker - Sportleagues Mobile App
   
   4 weeks team professional project for Balloon Group. I worked with 4 developers, and we used SCRUM methodology.
   
@@ -93,7 +92,6 @@ Here are some ideas to get you started:
   - Create a 2 teams match with users from a league you belong and select exact date, hour and invitation message
   - Result confirmation only when one of each team confirms result
   - ELO and ranking automatically update at result confirmation
-  - 
   
   Technologies used:
   
