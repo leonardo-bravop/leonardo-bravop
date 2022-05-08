@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  
+## Hello, I'm Leo! 👋
 
 <!--
 **leonardo-bravop/leonardo-bravop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="justify">
 
-
-### 👨‍💻 About Me : 
-- I'm a Full Stack developer from Peru living in Argentina
+## About me : 
+ I'm a Full Stack developer from Peru living in Argentina. Here you can see projects i made and the ones i'm currently working on.
+  
+ Feel free to ask me anything about my code or the technologies i use, i'm constantly learning how to improve too!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -44,13 +48,33 @@ Here are some ideas to get you started:
 
 ---
 
-### Stats:
+## Projects:
+ 
+  ### 🎞 DreamScreen - Movies and TV Shows website
+  
+  1 week solo project. Made with the TMDB API.
+  
+  Features:
+  
+  - Search movies, tv shows and see its details
+  - Register, login, logout and persist login session
+  - Once registered, you can save or remove any media from your favorites
+  - Search users by nickname and see their profile with their favorite media 
+  
+  Technologies used:
+  
+  PostgreSQL | Sequelize | Express | React | Node JS | Redux
+  
+
+---
+  
+## Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-bravop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 --- 
-### Find me on:
+## Let's get in touch!:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/leonardo-bravop/">
