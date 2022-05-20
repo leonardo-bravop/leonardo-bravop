@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   
   - Search movies, tv shows and see its details
   - Register, login, logout and persist login session
-  - Once registered, you can save or remove any media from your favorites
+  - Once logged in, you can save or remove any media from your favorites
   - Search users by nickname and see their profile with their favorite media 
   
   Technologies used:
@@ -76,8 +76,8 @@ Here are some ideas to get you started:
   
   - Search products and filter by category
   - In order to buy, you must register and login
-  - Add products to cart depending on stock and then create an order
-  - Once created you can checkout the order and recieve the purchase details in your email
+  - Add products to cart depending on stock, checkout and create an order
+  - Admin screens for creating products, categories and managing orders
   
   Technologies used:
   
