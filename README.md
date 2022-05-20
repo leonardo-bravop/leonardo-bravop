@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   ### 🎞 DreamScreen - Movies and TV Shows website
   
   1 week solo project. Made with the TMDB API.
+  🔗: https://github.com/leonardo-bravop/Dream-Screen
   
   Features:
   
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
   ### 🛒 GreenShop - E-commerce
   
   2 weeks team project. Made with 6 developers from scratch using SCRUM methodology
+   🔗: https://github.com/leonardo-bravop/GreenShop-E-Commerce
   
   Features:
   
