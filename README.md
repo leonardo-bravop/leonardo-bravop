@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="justify">
 
 ### About me : 
- I'm a Full Stack developer from Peru living in Argentina. Here you can see projects i made and the ones i'm currently working on.
+ I'm a Fullstack developer from Peru living in Argentina. Here you can see projects i made and the ones i'm currently working on.
   
  Feel free to ask me anything about my code or the technologies i use, i'm constantly learning how to improve too!
 
