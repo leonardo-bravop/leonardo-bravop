@@ -54,14 +54,7 @@ Here are some ideas to get you started:
   1 week solo project. Made with the TMDB API.
   
   🔗: https://github.com/leonardo-bravop/Dream-Screen
-  
-  Features:
-  
-  - Search movies, tv shows and see its details
-  - Register, login, logout and persist login session
-  - Once logged in, you can save or remove any media from your favorites
-  - Search users by nickname and see their profile with their favorite media 
-  
+   
   Technologies used:
   
   PostgreSQL | Sequelize | Express | React | Node JS | Redux
@@ -72,13 +65,6 @@ Here are some ideas to get you started:
   
    🔗: https://github.com/leonardo-bravop/GreenShop-E-Commerce
   
-  Features:
-  
-  - Search products and filter by category
-  - In order to buy, you must register and login
-  - Add products to cart depending on stock, checkout and create an order
-  - Admin screens for creating products, categories and managing orders
-  
   Technologies used:
   
   PostgreSQL | Sequelize | Express | React | Node JS | Redux | Bootstrap
@@ -88,16 +74,6 @@ Here are some ideas to get you started:
   4 weeks team professional project for Balloon Group. I worked with 4 developers, and we used SCRUM methodology.
   
   🔗: https://github.com/leonardo-bravop/Match-Maker
-  
-  Features:
-  
-  - Register, Login, Logout and user session persistance with JWT auth.
-  - Edit user info and picture with Firebase storage
-  - Create a public or private League with secret key for joining.
-  - Search a public or private league, join a league and start with default elo (for users ranking)
-  - Create a 2 teams match with users from a league you belong and select exact date, hour and invitation message
-  - Result confirmation only when one of each team confirms result
-  - ELO and ranking automatically update at result confirmation
   
   Technologies used:
   
